@@ -120,12 +120,14 @@
           ![image](https://user-images.githubusercontent.com/116808294/202546430-8dad5b9b-c1fb-4d2b-882d-f305c70de3d0.png)
 
    6.	Convierta las siguientes cantidades en kilowatts:
+   
           ![image](https://user-images.githubusercontent.com/116808294/202546524-bb372913-7d7b-49e8-adf9-f246ddcbfdab.png)
 
    8.	Convierta las siguientes cantidades en miliwatts:
           ![image](https://user-images.githubusercontent.com/116808294/202546586-94d7b777-bb5a-4df4-900b-4a3be076c120.png)
 
    10.	Convierta las siguientes cantidades en watts:
+   
           ![image](https://user-images.githubusercontent.com/116808294/202546670-e7dd407d-dac9-4d52-a440-e07efa0eca26.png)
 
    12.	Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
