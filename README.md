@@ -3,23 +3,22 @@
 
    1.1 GENERALES
 
-   • Desarrollar destreza en las operaciones que contengan cantidades que estén simplificadas debido a la notación científica y notación de ingeniería. 
+   •	Desarrollar destreza en la resolución de ejercicios sobre la ley de Ohm.   
+   •	Establecer la relación entre la corriente, voltaje y resistencia. 
    
-   • Evaluar las diversas conversiones de unidades métricas. 
+   •	Evaluar la energía y la potencia en un circuito eléctrico. 
    
-   • Establecer las diferencias entre los diversos tipos de circuitos eléctricos y los materiales que los componen. 
-   
-   • Inferir los conceptos relacionados con voltaje corriente y resistencia presentes en el libro. 
+   •	Conocer las fuentes de potencia y las caídas de voltaje que sufre una resistencia. 
    
    1.2 Especificos 
    
-   • Resolver ejercicios relacionados con el tema de notación científica y notación de ingeniería. 
+   •	Resolver los ejercicios presentados en el libro “Principios de circuitos eléctricos” en los capítulos 3 y 4.  
    
-   • Completar los diversos cálculos que están propuestos en el libro. 
+   •	Sintetizar los conceptos presentados en el libro, a través de mapas conceptuales y cuadros comparativos. 
    
-   • Sintetizar los conceptos presentados en el libro, a través de mapas conceptuales y cuadros comparativos. 
+   •	Identificar la conversión de energía y potencia en un circuito eléctrico. 
    
-   • Identificar los aparatos electrónicos que se emplean en la creación de un circuito.
+   •	Resolver ejercicios de corriente, voltaje y resistencia.
 
 
 2. MARCO TEORICO
@@ -195,3 +194,15 @@
 4. VIDEO
 5. CONCLUSIONES
 6. BIBLIOGRAFIA
+
+   •	Nilsson, J. W., Riedel, S. A., Cázares, G. N., & Fernández, A. S. (1995). Circuitos eléctricos. Addison-Wesley.
+   
+   •	Dorf, R., & Svoboda, J. (2015). Circuitos eléctricos. Alpha Editorial.
+   
+   •	Mora, J. F. (2012). Circuitos eléctricos. Pearson Educación.
+   
+   •	Campomanes, J. G. (1990). Circuitos eléctricos (Vol. 2). Universidad de Oviedo.
+   
+   •	Tamayo Villegas, C., & Caicedo Giraldo, C. E. (2009). Circuitos eléctricos de corriente continua con Circuitmaker.
+   
+
