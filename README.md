@@ -197,6 +197,17 @@
     
 
 5. CONCLUSIONES
+
+   •	Debido a la resolución de problemas se logró el dominio deseado en cuanto a la resolución de ejercicios sobre la ley de ohm. 
+   
+   •	Se logró establecer la relación directamente proporcional que existe entre la corriente y el voltaje. 
+   
+   •	Se logró establecer la relación inversamente proporcional que existe entre la corriente y la resistencia. 
+   
+   •	No solo se logró entender los conceptos de la energía y la potencia, sino también realizar ejercicios con ellas.
+   
+
+
 7. BIBLIOGRAFIA
 
    •	Nilsson, J. W., Riedel, S. A., Cázares, G. N., & Fernández, A. S. (1995). Circuitos eléctricos. Addison-Wesley.
