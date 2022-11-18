@@ -1,9 +1,36 @@
 # INFORME N° 2
 1. OBJETIVOS
+
+   1.1 GENERALES
+
+   • Desarrollar destreza en las operaciones que contengan cantidades que estén simplificadas debido a la notación científica y notación de ingeniería. 
+   
+   • Evaluar las diversas conversiones de unidades métricas. 
+   
+   • Establecer las diferencias entre los diversos tipos de circuitos eléctricos y los materiales que los componen. 
+   
+   • Inferir los conceptos relacionados con voltaje corriente y resistencia presentes en el libro. 
+   
+   1.2 Especificos 
+   
+   • Resolver ejercicios relacionados con el tema de notación científica y notación de ingeniería. 
+   
+   • Completar los diversos cálculos que están propuestos en el libro. 
+   
+   • Sintetizar los conceptos presentados en el libro, a través de mapas conceptuales y cuadros comparativos. 
+   
+   • Identificar los aparatos electrónicos que se emplean en la creación de un circuito.
+
+
 2. MARCO TEORICO
 
    ![image](https://user-images.githubusercontent.com/116808294/202596571-97f4a28a-407f-4c11-b2d0-81d9f97e0fe8.png)
-
+   
+   ![image](https://user-images.githubusercontent.com/116808294/202600716-aca44b42-fa09-4f3d-a05b-aa3492b6bca8.png)
+   
+   ![image](https://user-images.githubusercontent.com/116808294/202601251-a6716a05-cfc1-464d-8b55-51dd87dc52a7.png)
+   
+   ![image](https://user-images.githubusercontent.com/116808294/202601927-20504164-725b-443a-9b9d-02a15c60cb5b.png)
 
 4. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
