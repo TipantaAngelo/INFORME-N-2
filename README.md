@@ -76,7 +76,7 @@
 
    21.	Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta. 
      
-          
+          ![image](https://user-images.githubusercontent.com/116808294/202603349-ca6e63ab-c598-4320-998f-71b64e3623eb.png)
 
    SECCIÓN 3–3 CÁLCULO DE VOLTAJE
 
@@ -86,10 +86,12 @@
 
    25.  Se leen tres amperes de corriente a través de un resistor de 27 Ω conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?
      
-          
+          ![image](https://user-images.githubusercontent.com/116808294/202603953-84d59dae-abb9-4518-9134-f752cbe49e66.png)
+
    27.  Se conecta una fuente de 6 V a un resistor de 100 Ω mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 Ω. Determine lo siguiente: 
      
-          
+          ![image](https://user-images.githubusercontent.com/116808294/202604784-cb073f63-68a1-46af-b5c7-bba87843d909.png)
+
    SECCIÓN 3–4 CÁLCULO DE LA RESISTENCIA
    
    29.	Calcule la resistencia de un reóstato para cada juego de valores de V e I: 
@@ -115,26 +117,24 @@
           ![image](https://user-images.githubusercontent.com/116808294/202548115-4c201bc9-f280-4b3a-b80b-e0f08ddb9fe2.png)
 
    4.	¿Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h? 
-     
           ![image](https://user-images.githubusercontent.com/116808294/202546430-8dad5b9b-c1fb-4d2b-882d-f305c70de3d0.png)
 
    6.	Convierta las siguientes cantidades en kilowatts:
-     
           ![image](https://user-images.githubusercontent.com/116808294/202546524-bb372913-7d7b-49e8-adf9-f246ddcbfdab.png)
 
    8.	Convierta las siguientes cantidades en miliwatts:
-     
           ![image](https://user-images.githubusercontent.com/116808294/202546586-94d7b777-bb5a-4df4-900b-4a3be076c120.png)
 
    10.	Convierta las siguientes cantidades en watts:
-     
           ![image](https://user-images.githubusercontent.com/116808294/202546670-e7dd407d-dac9-4d52-a440-e07efa0eca26.png)
 
    12.	Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
      
           ![image](https://user-images.githubusercontent.com/116808294/202546772-4a21eb4a-e03d-42a8-885e-04692b47cd90.png)
 
-   	Convierta 〖5 x 10〗^6 watts-minutos en kWh. 
+   	   
+         ![image](https://user-images.githubusercontent.com/116808294/202605586-0b776f6d-8bf7-42a3-b1c2-3838852fd4fc.png)
+
     
    16.	¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
      
