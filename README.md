@@ -191,11 +191,13 @@
           ![image](https://user-images.githubusercontent.com/116808294/202547549-9be1d275-7921-43e3-b430-f5a3a95e678f.png)
 
    
-   
-   
 4. VIDEO
+
+    https://www.youtube.com/watch?v=OmohFlO5Ya0&ab_channel=MateoTipanta
+    
+
 5. CONCLUSIONES
-6. BIBLIOGRAFIA
+7. BIBLIOGRAFIA
 
    •	Nilsson, J. W., Riedel, S. A., Cázares, G. N., & Fernández, A. S. (1995). Circuitos eléctricos. Addison-Wesley.
    
